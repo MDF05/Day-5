@@ -24,6 +24,11 @@ body {
     line-height: 25px;
 }
 
+.left-card h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+
 .left-card h1,
 .left-card p {
     margin-bottom: 50px;
